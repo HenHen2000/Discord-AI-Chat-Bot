@@ -4,7 +4,7 @@ Discord AI Chat-Bot
 --------------SETUP-------------
 
 
-    WINDOWS
+                WINDOWS
  Run the following commands in the terminal:
       "python -m pip install openai==0.28"
       "python -m pip install discord"
@@ -12,11 +12,11 @@ Discord AI Chat-Bot
 
 
 
-   MAC/LINUX
+               MAC/LINUX
  Run the following commands in the terminal:
-    "pip install openai==0.28"
-    "pip install discord"
-    "pip install python3-dotenv"
+        "pip install openai==0.28"
+        "pip install discord"
+        "pip install python3-dotenv"
 
 
  Replace the keys in .env with keys from openai and discord, there are tutorials on the web if needed
